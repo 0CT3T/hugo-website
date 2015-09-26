@@ -1,0 +1,11 @@
+baseurl = "http://drtueur.github.io/amrhein-website"
+languageCode = "fr-fr"
+title = "Sébastien Amrhein"
+canonifyurls = true
+publishdir = "public"
+contentdir = "content"
+layoutdir = "layouts"
+[params]
+ description = "Sébastien Amrhein website and blog"
+ DateForm = "Mon, Jan 2, 2006"
+ Author = "Sébastien Amrhein"
